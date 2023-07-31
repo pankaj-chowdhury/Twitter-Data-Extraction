@@ -29,10 +29,4 @@ Here's a summary of the code:
 
 Python, combined with Twarc and Pandas, made it effortless to process Twitter data efficiently. Now, I can dive into exciting insights and trends related to #ManipurViralVideo. 📈
 
-If you're interested in the complete code, feel free to check it out below! 🔽
-
-[Link to the code on GitHub/Gist/Drive]
-
-#Python #DataAnalysis #TwitterData #Twarc #Pandas #HashtagAnalysis #Tech #Coding #DataScience #PythonCommunity
-
-Feel free to like, comment, and share your thoughts! 🤝 Happy coding and data exploration! 🚀💻
+🤝 Happy coding and data exploration! 🚀💻
