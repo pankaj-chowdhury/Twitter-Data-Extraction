@@ -1,9 +1,9 @@
 # Twitter Data Extraction
-📢 Exciting Twitter data analysis using Python's Twarc and Pandas! 🚀
+Exciting Twitter data analysis using Python's Twarc and Pandas! 
 
-I've been exploring Python's powerful tools to fetch and analyze Twitter data, and I'm amazed by the possibilities! 🐍🐦
+I've been exploring Python's powerful tools to fetch and analyze Twitter data, and I'm amazed by the possibilities!
 
-In this project, I used the Twarc library to search for tweets with the hashtag #ManipurViralVideo. 📅 I then extracted relevant data and saved it into a JSON file.
+In this project, I used the Twarc library to search for tweets with the hashtag #ManipurViralVideo. I then extracted relevant data and saved it into a JSON file.
 
 Here's a summary of the code:
 
@@ -25,8 +25,8 @@ Here's a summary of the code:
    I filtered tweets containing the hashtag and saved them along with their creation times to a list.
 
 5. Create a DataFrame for analysis:
-   Finally, I converted the list of tweets into a Pandas DataFrame, which will make data analysis a breeze! 📊
+   Finally, I converted the list of tweets into a Pandas DataFrame, which will make data analysis a breeze!
 
-Python, combined with Twarc and Pandas, made it effortless to process Twitter data efficiently. Now, I can dive into exciting insights and trends related to #ManipurViralVideo. 📈
+Python, combined with Twarc and Pandas, made it effortless to process Twitter data efficiently. Now, I can dive into exciting insights and trends related to #ManipurViralVideo.
 
-🤝 Happy coding and data exploration! 🚀💻
+Happy coding and data exploration!
